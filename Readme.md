@@ -228,7 +228,7 @@ User: Write an email requesting a meeting with a client.
 - LangChain documentation
 - OpenAI Cookbook
 - GROQ API docs
-- [AI communities on Discord/Reddit](discord.gg/BVa3d4BrVY)
+- [AI communities on Discord/Reddit](https://discord.gg/BVa3d4BrVY)
 
 ---
 
